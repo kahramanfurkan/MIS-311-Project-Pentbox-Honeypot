@@ -1,0 +1,323 @@
+#################### PenTBox Honeypot log
+
+  HONEYPOT ACTIVATED ON PORT 80 (2021-06-08 16:43:15 +0300)
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.1.37:36686 (2021-06-08 16:45:22 +0300)
+ -----------------------------
+GET / HTTP/1.1
+Host: 192.168.1.37
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.1.37:36688 (2021-06-08 16:45:24 +0300)
+ -----------------------------
+GET /favicon.ico HTTP/1.1
+Host: 192.168.1.37
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://192.168.1.37/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.1.37:36690 (2021-06-08 16:45:32 +0300)
+ -----------------------------
+GET / HTTP/1.1
+Host: 192.168.1.37
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.1.37:36692 (2021-06-08 16:45:34 +0300)
+ -----------------------------
+GET /favicon.ico HTTP/1.1
+Host: 192.168.1.37
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://192.168.1.37/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.1.37:36694 (2021-06-08 16:46:27 +0300)
+ -----------------------------
+GET / HTTP/1.1
+Host: 192.168.1.37
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.1.37:36696 (2021-06-08 16:46:30 +0300)
+ -----------------------------
+GET /favicon.ico HTTP/1.1
+Host: 192.168.1.37
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://192.168.1.37/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.1.37:36684 (2021-06-08 16:46:32 +0300)
+ -----------------------------
+ÿôÿý
+#################### PenTBox Honeypot log
+
+  HONEYPOT ACTIVATED ON PORT 23 (2021-06-08 19:23:28 +0300)
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.1.37:40192 (2021-06-08 19:24:49 +0300)
+ -----------------------------
+ÿýÿûÿûÿû ÿû!ÿû"ÿû'ÿýÿû#
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.1.37:40194 (2021-06-08 19:25:53 +0300)
+ -----------------------------
+ping 192.168.1.37
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.1.37:40198 (2021-06-08 19:27:08 +0300)
+ -----------------------------
+ÿýÿûÿûÿû ÿû!ÿû"ÿû'ÿýÿû#
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.1.37:40200 (2021-06-08 19:27:58 +0300)
+ -----------------------------
+ÿôÿý
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.1.37:40202 (2021-06-08 19:28:08 +0300)
+ -----------------------------
+ÿýÿûÿûÿû ÿû!ÿû"ÿû'ÿýÿû#
+#################### PenTBox Honeypot log
+
+  HONEYPOT ACTIVATED ON PORT 33 (2021-06-08 19:41:17 +0300)
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.1.37:35158 (2021-06-08 19:41:35 +0300)
+ -----------------------------
+GET / HTTP/1.1
+Host: 192.168.1.37:33
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.1.37:35160 (2021-06-08 19:41:38 +0300)
+ -----------------------------
+GET / HTTP/1.1
+Host: 192.168.1.37:33
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.1.37:35164 (2021-06-08 19:41:42 +0300)
+ -----------------------------
+GET / HTTP/1.1
+Host: 192.168.1.37:33
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.1.37:35168 (2021-06-08 19:41:50 +0300)
+ -----------------------------
+GET / HTTP/1.1
+Host: 192.168.1.37:33
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.1.37:35172 (2021-06-08 19:41:54 +0300)
+ -----------------------------
+GET / HTTP/1.1
+Host: 192.168.1.37:33
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.1.37:35176 (2021-06-08 19:42:26 +0300)
+ -----------------------------
+GET / HTTP/1.1
+Host: 192.168.1.37:33
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.1.37:35186 (2021-06-08 19:43:07 +0300)
+ -----------------------------
+telnet 192.168.1.37
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.1.37:35182 (2021-06-08 19:43:27 +0300)
+ -----------------------------
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.1.37:35224 (2021-06-08 19:43:31 +0300)
+ -----------------------------
+GET / HTTP/1.1
+Host: 192.168.1.37:33
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.1.37:35226 (2021-06-08 19:43:34 +0300)
+ -----------------------------
+GET / HTTP/1.1
+Host: 192.168.1.37:33
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.1.37:35230 (2021-06-08 19:43:41 +0300)
+ -----------------------------
+GET / HTTP/1.1
+Host: 192.168.1.37:33
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.1.37:35234 (2021-06-08 19:44:13 +0300)
+ -----------------------------
+GET / HTTP/1.1
+Host: 192.168.1.37:33
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.1.37:35238 (2021-06-08 19:45:15 +0300)
+ -----------------------------
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.1.37:35242 (2021-06-08 19:45:16 +0300)
+ -----------------------------
+GET / HTTP/1.1
+Host: 192.168.1.37:33
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.1.37:35244 (2021-06-08 19:45:26 +0300)
+ -----------------------------
+GET / HTTP/1.1
+Host: 192.168.1.37:33
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+#################### PenTBox Honeypot log
+
+  HONEYPOT ACTIVATED ON PORT 23 (2021-06-08 19:47:36 +0300)
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.1.37:53838 (2021-06-08 19:47:47 +0300)
+ -----------------------------
+ÿýÿûÿûÿû ÿû!ÿû"ÿû'ÿýÿû#
+#################### PenTBox Honeypot log
+
+  HONEYPOT ACTIVATED ON PORT 23 (2021-06-09 23:41:11 +0300)
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.1.37:42120 (2021-06-09 23:41:55 +0300)
+ -----------------------------
+ÿýÿûÿûÿû ÿû!ÿû"ÿû'ÿýÿû#
+#################### PenTBox Honeypot log
+
+  HONEYPOT ACTIVATED ON PORT 23 (2021-06-10 00:03:21 +0300)
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.1.37:47820 (2021-06-10 00:05:37 +0300)
+ -----------------------------
+ÿýÿûÿûÿû ÿû!ÿû"ÿû'ÿýÿû#
+#################### PenTBox Honeypot log
+
+  HONEYPOT ACTIVATED ON PORT 23 (2021-06-10 12:13:42 +0300)
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.1.37:55070 (2021-06-10 12:14:16 +0300)
+ -----------------------------
+ÿýÿûÿûÿû ÿû!ÿû"ÿû'ÿýÿû#
+#################### PenTBox Honeypot log
+
+  HONEYPOT ACTIVATED ON PORT 23 (2021-06-11 16:43:52 +0300)
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.1.37:44646 (2021-06-11 16:44:49 +0300)
+ -----------------------------
+ÿýÿûÿûÿû ÿû!ÿû"ÿû'ÿýÿû#

@@ -24,7 +24,7 @@ https://github.com/technicaldada/pentbox
 ***Run the pentbox :***
 > ./pentbox.rb
 
-> ![run-pentbox](https://github.com/kahramanfurkan/MIS-311-Project-Pentbox-Honeypot/blob/main/screenshots/run-pentbox.png)
+![run-pentbox](https://github.com/kahramanfurkan/MIS-311-Project-Pentbox-Honeypot/blob/main/screenshots/run-pentbox.png)
 
 
 ***Choose Network tools,Honeypot :***
